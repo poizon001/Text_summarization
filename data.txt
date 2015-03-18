@@ -1,0 +1,11 @@
+According to MongoDB CEO Dev Ittycheria, it was unsolicited demand from investors that drove much of the company’s recent $80 million investment round, news of which broke on Friday afternoon.
+
+In an interview with Gigaom, Ittycheria said that the company initially planned to raise a smaller sum of money to finance its acquisition of WiredTiger in December, but demand from adoring investors that caught wind of the raise was too much to resist. The company ended up raising about three times what it had planned to, and on very favorable terms, he said.
+
+“We were very opportunistic,” Ittycheria said. MongoDB’s previous fundraising round had it valued at $1.2 billion, and it’s now worth even more.
+
+The company will likely go public at some point but doesn’t want to — or have to — rush into it, he said. It still has plenty of mindshare and capital as a private company to choose its own timing. And there’s still some work to do proving its business model can succeed and scaling its global presence (MongoDB only has a handful of reps in both Europe and Asia, for example), Ittycheria noted.
+
+That being said, MongoDB can probably, and safely, be optimistic about its prospects whenever it decides to go public.Get all the news you need about Cloud with the Gigaom newsletter.
+
+Although the Hadoop and NoSQL markets are quite different, Ittycheria said he watched the recent Hortonworks IPO very closely because Hortonworks was the first of the next-generation, open-source data infrastructure vendors to test the public markets. While the company’s financials initially made him a little nervous, he said the fact that it was well-received speaks to demand from public investors to invest in “loosely, ‘big data’ companies.”
